@@ -1,6 +1,6 @@
         local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
         local Window = OrionLib:MakeWindow({
-            Name = "BaconBoss Hub | Push Smulator",
+            Name = "BaconBoss Hub | Push Simulator",
             HidePremium = false,
             SaveConfig = true,
             ConfigFolder = "OrionTest"
